@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Collapse Index (CI)"
+authors:
+  - family-names: "K."
+    given-names: "A."
+    orcid: "https://orcid.org/0009-0002-2566-5538"
+abstract: >
+  Collapse Index (CI) is a bounded, lightweight, reproducible, and
+  audit-ready diagnostic for AI collapse. This repository reserves the
+  official namespace and provides illustrative materials.
+repository-code: "https://github.com/collapseindex/collapseindex"
+license: "Proprietary"
+version: "0.1.0"
+date-released: "2025-09-28"
